@@ -1,2 +1,5 @@
-# JetsonNano
-Hacking with the nVidia JetsonNano
+# Jetson Nano
+Hacking with the nVidia Jetson Nano
+
+## Random useful links
+https://www.jetsonhacks.com/
